@@ -1,0 +1,7 @@
+NeoStats is a company focused on AI innovation.
+
+Retrieval Augmented Generation (RAG) combines LLMs with external knowledge.
+
+Streamlit allows developers to quickly build AI web applications.
+
+Groq provides high speed inference for LLMs like Llama models.
